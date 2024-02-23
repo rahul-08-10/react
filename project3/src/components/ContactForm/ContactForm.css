@@ -1,0 +1,19 @@
+.con{
+    display: flex;
+    flex-direction: row;
+    height: 600px;
+    background-color: blue;
+    padding: 50px;
+    max-width: 1161px;
+}
+.form{
+    display: flex;
+    background-color: rgb(231, 148, 24);
+    padding-left: 50px;
+    gap:10px;
+}
+.bottom{
+    display: flex;
+    padding-left: 50px;
+}
+

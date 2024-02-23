@@ -1,0 +1,17 @@
+.container{
+    max-width: 1440px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-between;
+}
+.logo{
+    display: flex;
+    width:72px;
+    height: 72px;
+}
+.lis ul{
+    gap:24px;
+    display: flex;
+    list-style: none;
+}

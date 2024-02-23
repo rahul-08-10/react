@@ -1,0 +1,9 @@
+.primary{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding: 18px 10px;
+    align-items: center;
+    border-radius: 5px;
+}
